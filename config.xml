@@ -5,7 +5,7 @@
     version     = "1.0.0" >
     <!-- versionCode is optional and Android only -->
 
-    <name>GuestRevu</name>
+    <name>GuestRevu Kiosk</name>
 
     <description>
       Listen, Learn and Earn.
