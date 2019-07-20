@@ -5,13 +5,13 @@
     version     = "1.0.0" >
     <!-- versionCode is optional and Android only -->
 
-    <name>Farm Manager</name>
+    <name>GuestRevu</name>
 
     <description>
-      A simple productivity boost tool.
+      Listen, Learn and Earn.
     </description>
 
-    <author href="https://blackladder.co.za" email="daganread@gmail.com">
+    <author href="https://www.guestrevu.com" email="dagan@guestrevu.com">
       Dagan Read
     </author>
 
