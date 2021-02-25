@@ -13,12 +13,12 @@
     
     <content src="index.html" />
     
-    <preference name="phonegap-version" value="cli-10.0.0" />
+<!--    <preference name="phonegap-version" value="cli-9.0.0" />-->
     <!--<preference name="Fullscreen" value="true" /-->
     <platform name="android" >
         <allow-intent href="market:*" />
         <preference name="android-minSdkVersion" value="22" />
-        <preference name="android-targetSdkVersion" value="26" />
+        <preference name="android-targetSdkVersion" value="29" />
         <preference name="orientation" value="portrait" />
     </platform> 
     
