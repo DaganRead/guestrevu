@@ -28,7 +28,7 @@
         <icon src="res/android/xxhdpi.png" density="xxhdpi" />
         <icon src="res/android/xxxhdpi.png" density="xxxhdpi" />
         
-        <preference name="SplashScreenDelay" value="10000" />
+        <preference name="SplashScreenDelay" value="3000" />
         <!--        Splash screen fallback  -->
         <splash src="res/screen/android/splash-port-hdpi.png" density="hdpi"/>
         <splash src="res/screen/android/splash-port-ldpi.png" density="ldpi"/>
