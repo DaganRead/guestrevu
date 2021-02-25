@@ -3,13 +3,18 @@
     <head>
         <meta charset="utf-8">
         <title>GuestRevu</title>
-        <meta name="description" content="The HTML5 Herald">
+        <meta name="description" content="GuestRevu Kiosk">
         <meta name="author" content="SitePoint">
+        <meta name="viewport" content="width=device-width, user-scalable=no" />
         <link rel="stylesheet" href="css/styles.css">
     </head>
     <body>
-        <iframe seamless src="https://my-api.guestrevuapp.com/api/v1/kiosk/c19ff9e8-79fb-11e8-9b16-0a5d7161fc38/en">
+        <div class="banner">
+            <input type="button" id="btn_settings" value="Settings" />
+        </div>
+        <iframe id="iframe" seamless src="https://my-api.guestrevuapp.com/api/v1/kiosk/2cca8b89-bb47-4518-bee9-36a1e2253866/en">
             <p>Something went wrong.</p>
         </iframe>
+        <script src="js/scripts.js"></script>
     </body>
 </html>
