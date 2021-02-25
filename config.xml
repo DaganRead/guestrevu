@@ -34,4 +34,6 @@
     <allow-intent href="geo:*" />
     
     <plugin name="cordova-plugin-whitelist" spec="1" />
+    <plugin name="cordova-plugin-splashscreen" spec="6" />
+    
 </widget>
